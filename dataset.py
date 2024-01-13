@@ -1,3 +1,5 @@
+# Sample dataset to test program
+
 def func_dataset():
     dataset=[
         ['Asthma', ['Shortness of breath', 'Wheezing', 'Cough', 'Chest tightness', 'Difficulty breathing'], 'Use inhalers and avoid triggers like allergens and smoke.'], 
